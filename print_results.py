@@ -69,6 +69,7 @@ def print_results(
     print("\n\n*** Results Summary for CNN Model Architecture", model.upper(), "***")
     print("{:20}: {:3d}".format("N Images", results_stats_dic["n_images"]))
     print("{:20}: {:3d}".format("N Dog Images", results_stats_dic["n_dogs_img"]))
+    print("{:20}: {:3d}".format("N Not-Dog Images", results_stats_dic["n_notdogs_img"]))
     print("")
 
     # Prints summary statistics (percentages) on Model Run

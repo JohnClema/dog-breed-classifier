@@ -320,6 +320,7 @@ Pct Corr dog: 100.0 Pct Corr NOTdog: 100.0  Pct Corr Breed:  80.0
 *** Results Summary for CNN Model Architecture ALEXNET ***
 N Images            :  40
 N Dog Images        :  30
+N Not-Dog Images    :  10
 
  
 pct_match: 75.0

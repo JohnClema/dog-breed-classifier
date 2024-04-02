@@ -320,6 +320,7 @@ Pct Corr dog: 100.0 Pct Corr NOTdog:  90.0  Pct Corr Breed:  90.0
 *** Results Summary for CNN Model Architecture RESNET ***
 N Images            :  40
 N Dog Images        :  30
+N Not-Dog Images    :  10
 
  
 pct_match: 82.5
@@ -335,4 +336,4 @@ Real:                     beagle   Classifier:  walker hound, walker foxhound
 Real:           golden retriever   Classifier:                       leonberg
 Real:             great pyrenees   Classifier:                         kuvasz
 
-** Total Elapsed Runtime: 0:00:02
+** Total Elapsed Runtime: 0:00:01
